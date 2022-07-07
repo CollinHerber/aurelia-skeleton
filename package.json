@@ -14,7 +14,7 @@
         "aurelia-validation": "^2.0.0-rc2",
         "bootstrap": "^5.0.0-alpha3",
         "humane-js": "^3.2.2",
-        "moment": "^2.29.1",
+        "moment": "^2.29.4",
         "numeral": "^2.0.6",
         "popper.js": "^1.16.1",
         "toastr": "^2.1.4"
